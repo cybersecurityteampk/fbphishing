@@ -3,7 +3,7 @@ The tool provided in this GitHub repository is intended for educational and rese
 Users are solely responsible for their actions and must comply with all applicable laws and regulations while using this tool. The creators and contributors shall not be held liable for any misuse or damage caused by the use of this tool.
 
 
-![Image Alt Text](./blog/post/edit/3599880118825281094/3657417606836609071)
+![Image Alt Text](https://cybersecurityteampk1.blogspot.com/3599880118825281094/3657417606836609071)
 
 
 # Kali Linux / Termux Both Working
